@@ -1,0 +1,8 @@
+Primeros pasos con NodeJS: Utilice NodeJS,
+ Express, Mongoose,Multer,Validator,Cors,Nodemon
+Express(Maneja el http)
+Mongoose(Hace mas facil el manejo de node)
+Multer(Libreria para subir archivos)
+Validator(Libreria para validar datos)
+Cors(Evita el problema de origenes y de dominios cruzados)
+Nodemon(Monitoreo los cambios en el codigo,refrescandose)
